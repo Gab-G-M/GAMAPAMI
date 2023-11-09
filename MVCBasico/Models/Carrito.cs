@@ -2,5 +2,6 @@
 {
     public class Carrito
     {
+        public String nombreDelCarrito {  get; set; }
     }
 }
