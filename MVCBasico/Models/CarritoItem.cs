@@ -2,5 +2,6 @@
 {
     public class CarritoItem
     {
+        public int String { get; set; }
     }
 }
